@@ -1,4 +1,4 @@
-# Project 2 Sketching with ML
+# Sketching with ML
 
 Yunchieh Chang, cyunchie@ucsd.edu
 
@@ -25,7 +25,3 @@ Briefly decribe the files that are included with your repository:
 Add any implementation notes or details on how to repeat your work.
 - The input text is divided into peices of 20-character-long sentences to maintain accuracy.
 - The model is automatically built and intialized everytime when a new 20-character-long sentence is fed into the program.
-
-## Reference
-
-Project prompt including grading rubric: [doc](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit)
